@@ -1,0 +1,6 @@
+1.  Với thẻ inline thì các item sẽ nằm trên cùng 1 dòng và không thể set width hay height.
+    Với thẻ block thì các item sẽ xuống dòng và luôn có width mặc định toàn bộ width trình duyệt cùng có thể chỉnh width và height.
+2.  HTML element là các thẻ html như : head, body, title, div, ... 
+    HTML attribute là các thuộc tính của 1 thẻ đó như : id, class, name, for,...
+3.  HTML là viết tắt của HyperText Markup Language được dịch là ngôn ngữ đánh dấu siêu văn bản.
+4.  id là thuộc tính áp dụng cho 1 phần tử duy nhất không thể trùng lặp giống nhau còn class có thể áp dụng cho nhiều phần tử.
