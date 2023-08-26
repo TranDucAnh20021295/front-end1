@@ -11,5 +11,7 @@ import rectangle2Img from "./Rectangle2.png";
 import rectangle3Img from "./Rectangle3.png";
 import rectangle4Img from "./Rectangle4.png";
 import shop1Img from './shop1.png';
+import logo1Img from './Logo1.png';
+import arrow1Img from './arrow1.png'
 export { bannerImg, chair1Img, chair2Img, chair3Img, mirror1Img, 
-    dinningImg, outdoorImg, sofa1Img, rectangle1Img, rectangle2Img, rectangle3Img, rectangle4Img, shop1Img };
+    dinningImg, outdoorImg, sofa1Img, rectangle1Img, rectangle2Img, rectangle3Img, rectangle4Img, shop1Img, logo1Img, arrow1Img };

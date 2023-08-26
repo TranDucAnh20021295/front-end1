@@ -36,7 +36,7 @@ export function TopPickForYou() {
                         <div className='flex-1'>
                             <div className='flex flex-col gap-3'>
                                 <img className='w-72 h-72' src={item.image} alt="" />
-                                <p className='text-base font-normal'>{item.describe}</p>
+                                <p className='text-base font-normal max-w-[14rem]'>{item.describe}</p>
                                 <p className='text-2xl font-medium'>{item.cost}</p>
                             </div>
                         </div>
