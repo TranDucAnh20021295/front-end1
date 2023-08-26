@@ -1,3 +1,0 @@
-5.  CSS là viết tắt của Cascading Style Sheets, là ngôn ngữ dùng để tìm và định dạng cho văn bản HTML.
-6.  1 đoạn mã CSS gồm 2 phần CSS selector (chọn đối tượng định dạng) và CSS declaration (khai báo các thuộc tính và giá trị thuộc tính định dạng).
-7.  CSS có thể khai báo ngay tại văn bản html thông qua thẻ Style và có thể khai báo bằng 1 file css khác liên kết bằng thẻ <link rel = "stylesheet" href = "file.css">.
