@@ -12,7 +12,7 @@ export function ShopPage() {
         <TaskBar/>
         <Header/>
         <ResultInfo/>
-        {/* <ResultContent/> */}
+        <ResultContent/>
         <Sale/>
         <Footer/>
     </div>
