@@ -1,15 +1,17 @@
+import React from 'react'
 import { Header } from '../../../components/header'
-export function ShopHeader() {
+
+export const ContactHeader = () => {
   return (
     <div>
-      <Header title="Shop" data={[
+        <Header title="Contact" data={[
           {
             title: "Home",
             to: "/home"
           },
           {
-            title: "Shop",
-            to: "/shop"
+            title: "Contact",
+            to: "/contact"
           }
         ]}/>
     </div>

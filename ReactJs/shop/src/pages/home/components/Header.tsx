@@ -1,7 +1,6 @@
-import React from "react";
 import { bannerImg } from "../../../assets/images";
 import { UnderlineButton } from "../../../components/buttons";
-import { TaskBar } from "../../../components/TaskBar";
+import { TaskBar } from "../../../components/TaskBar/";
 
 
 export function Header() {
